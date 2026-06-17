@@ -4,12 +4,16 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=arunachalamk223-bot&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/arunachalamk223-bot/arunachalamk223-bot/raw/main/Arunachalam_K_Resume.pdf">
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-70A5FD?style=flat-square&logoColor=white" alt="Download Resume"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+Robotics+%26+Automation+Engineer+(Honours);AMR+%2F+AGV+Systems+%7C+ROS2+%7C+SLAM+%7C+Nav2;LiDAR+%7C+IMU+%7C+OpenCV+%7C+YOLO+%7C+PID+Control;Founder+%40+TruRock+Robotics+%7C+Open+to+Coimbatore" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+Robotics+%26+Automation+Engineer+(Honours);AMR+%2F+AGV+Systems+%7C+ROS2+%7C+SLAM+%7C+Nav2;LiDAR+%7C+IMU+%7C+OpenCV+%7C+YOLO+%7C+PID+Control;Founder+%40+TruRock+Robotics+%7C+Open+to+Coimbatore" alt="Typing SVG"/>
 </div>
 
 ---
@@ -196,6 +200,8 @@ class ArunachalamK:
 
 | | Achievement | Details |
 |:---:|:------------|:--------|
+| 🥇 | **Hackathon Winner — SNS College** | Won 1st place at SNS College Hackathon — robotics/tech innovation challenge |
+| 🥇 | **Hackathon Winner — Nandha College** | Won 1st place at Nandha College Hackathon — robotics/tech innovation challenge |
 | 🦾 | **Quadruped Robot Builder** | Built 4-legged autonomous surveillance robot with ROS2, LiDAR, SLAM & YOLO computer vision as team leader |
 | 🎓 | **Honours Degree Candidate** | B.E. Robotics & Automation Engineering (Honours) — CGPA 7.6 |
 | 🚀 | **Startup Founder** | Founded TruRock Robotics (Jan 2024) — leading AMR/AGV-style R&D and hardware prototyping |
