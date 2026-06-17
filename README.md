@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+Robotics+%26+Automation+Engineer+(Honours);AMR+%2F+AGV+Systems+%7C+ROS2+%7C+SLAM+%7C+Nav2;LiDAR+%7C+IMU+%7C+OpenCV+%7C+YOLO+%7C+PID+Control;Founder+%40+TruRock+Robotics+%7C+Open+to+Coimbatore" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+Robotics+%26+Automation+Engineer+(Honours);AMR+%2F+AGV+Systems+%7C+ROS2+%7C+SLAM+%7C+Nav2;LiDAR+%7C+IMU+%7C+OpenCV+%7C+YOLO+%7C+PID+Control;Founder+%40+TruRock+Robotics+%7C+Open+to+Coimbatore" alt="Typing SVG"/>
 </div>
 
 ---
