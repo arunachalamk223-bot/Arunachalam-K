@@ -32,7 +32,7 @@
     Degree      = "B.E. Robotics & Automation Engineering (Honours)"
     College     = "Erode Sengunthar Engineering College"
     Year        = "2023 – 2027"
-    cgpa        = 7.6
+    cgpa        = "7.6"
 
     Stack = [
         "ROS2", "Python", "C++", "Embedded C",
