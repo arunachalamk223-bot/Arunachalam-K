@@ -23,31 +23,30 @@
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class ArunachalamK:
 
-    name        = "Arunachalam K"
-    location    = "Erode, Tamil Nadu, India 🇮🇳"
-    email       = "arunachalamk223@gmail.com"
-    github      = "github.com/arunachalamk223-bot"
+    Name        = "Arunachalam K"
+    Location    = "Erode, Tamil Nadu, India 🇮🇳"
+    Email       = "arunachalamk223@gmail.com"
+    Github      = "github.com/arunachalamk223-bot"
 
-    degree      = "B.E. Robotics & Automation Engineering (Honours)"
-    college     = "Erode Sengunthar Engineering College"
-    year        = "2023 – 2027"
+    Degree      = "B.E. Robotics & Automation Engineering (Honours)"
+    College     = "Erode Sengunthar Engineering College"
+    Year        = "2023 – 2027"
     cgpa        = 7.6
 
-    stack = [
+    Stack = [
         "ROS2", "Python", "C++", "Embedded C",
         "Arduino", "Raspberry Pi", "OpenCV", "YOLO",
         "SLAM", "Nav2", "KiCad", "SolidWorks"
     ]
 
-    hardware = [
+    Hardware = [
         "LiDAR", "IMU", "Ultrasonic", "IR", "Encoders",
         "L298N / L293D Motor Drivers", "Servo / DC Motors",
         "ESCs", "LiPo Systems", "PWM / UART / I2C / SPI"
     ]
 
-    currently_learning = [
+    Currently_learning = [
         "ROS2 Nav2 Advanced Stack",
         "SLAM — Cartographer & GMapping",
         "KiCad PCB Design for Sensor Boards",
@@ -55,10 +54,9 @@ class ArunachalamK:
         "Behaviour Trees for Autonomous Robots"
     ]
 
-    fun_fact = "Built a 4-legged surveillance robot before finishing 3rd year 🦾"
+    Fun_fact = "Built a 4-legged surveillance robot before finishing 3rd year 🦾"
 
-    def motto(self):
-        return "Build robots that solve real problems — not just demos."
+
 ```
 
 <br clear="right"/>
