@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=arunachalamk223-bot&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
   &nbsp;&nbsp;
-  <a href="https://github.com/arunachalamk223-bot/arunachalamk223-bot/raw/main/Arunachalam_K_Resume.pdf">
+  <a href="https://github.com/arunachalamk223-bot/arunachalamk223-bot/raw/main/Arunachalam_K Resume.pdf">
     <img src="https://img.shields.io/badge/📄%20Download%20Resume-70A5FD?style=flat-square&logoColor=white" alt="Download Resume"/>
   </a>
 </div>
