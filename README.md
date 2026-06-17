@@ -87,14 +87,13 @@ class ArunachalamK:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 **PCB & CAD Design**
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF2D2D?style=flat-square&logo=dassaultsystemes&logoColor=white)
 ![TinkerCAD](https://img.shields.io/badge/TinkerCAD-FF6E00?style=flat-square&logo=autodesk&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6E00?style=flat-square&logo=autodesk&logoColor=white)
+
 
 **Tools & OS**
 
@@ -102,14 +101,6 @@ class ArunachalamK:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-**Protocols & Interfaces**
-
-![UART](https://img.shields.io/badge/UART-555555?style=flat-square&logo=embarcadero&logoColor=white)
-![I2C](https://img.shields.io/badge/I2C-555555?style=flat-square&logo=embarcadero&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-555555?style=flat-square&logo=embarcadero&logoColor=white)
-![PWM](https://img.shields.io/badge/PWM-555555?style=flat-square&logo=embarcadero&logoColor=white)
-![CAN](https://img.shields.io/badge/CAN%20Bus-555555?style=flat-square&logo=embarcadero&logoColor=white)
 
 ---
 
@@ -200,12 +191,12 @@ class ArunachalamK:
 
 | | Achievement | Details |
 |:---:|:------------|:--------|
-| 🥇 | **Hackathon Winner — SNS College** | Won 1st place at SNS College Hackathon — robotics/tech innovation challenge |
-| 🥇 | **Hackathon Winner — Nandha College** | Won 1st place at Nandha College Hackathon — robotics/tech innovation challenge |
-| 🦾 | **Quadruped Robot Builder** | Built 4-legged autonomous surveillance robot with ROS2, LiDAR, SLAM & YOLO computer vision as team leader |
-| 🎓 | **Honours Degree Candidate** | B.E. Robotics & Automation Engineering (Honours) — CGPA 7.6 |
 | 🚀 | **Startup Founder** | Founded TruRock Robotics (Jan 2024) — leading AMR/AGV-style R&D and hardware prototyping |
+| 🎓 | **Honours Degree Candidate** | B.E. Robotics & Automation Engineering (Honours) — CGPA 7.6 |
+| 🦾 | **Quadruped Robot Builder** | Built 4-legged autonomous surveillance robot with ROS2, LiDAR, SLAM & YOLO computer vision as team leader |
 | 🏁 | **Robotics Competition** | Designed & competed with PID line follower robot — tuned PID control for competition performance |
+| 🥇 | **Hackathon Winner - SNS College** | Won 1st place at SNS College Hackathon — robotics/tech innovation challenge |
+| 🥇 | **Hackathon Winner - Nandha College** | Won 2nd place at Nandha College Hackathon — robotics/tech innovation challenge |
 | 🏫 | **Technical Trainer** | Delivered hands-on robotics & embedded systems training at SIVACK Technologies |
 | 🔌 | **PCB Designer** | KiCad schematic capture & PCB design for robotics sensor interface boards |
 | 🎮 | **Certified Developer** | Python (W3Schools) · Python Game Dev (GUVI) · HTML, CSS, JS (W3Schools) |
@@ -236,7 +227,7 @@ class ArunachalamK:
 ⚡  Motor Control           →  FOC (Field Oriented Control), AMR Drive Systems
 🔌  PCB Design              →  KiCad — Sensor Interface Boards, Power Distribution
 👁️  Computer Vision         →  YOLO Fine-tuning, Depth Estimation, Point Clouds (PCL)
-🔧  Communication           →  CAN Bus, ROS2 DDS, Micro-ROS on STM32
+🔧  Communication           →  ROS2 DDS, Micro-ROS on STM32
 📐  CAD & Simulation        →  Fusion 360, Advanced Gazebo World Design
 ```
 
